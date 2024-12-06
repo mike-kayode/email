@@ -15,11 +15,9 @@ function Footer() {
         <Grid container className="footer__container">
           <Grid container md={4} sm={12} alignItems="center" className="center">
             <img src={logo} alt="logo" className="logo" />
-            <span className="logo__name">DAS</span>
+            <span className="logo__name">Vidia System</span>
             <div className="logo__description">
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Dignissimos nostrum quod optio sit cupiditate quo quia temporibus
-              laborum adipisci pariatur?
+              Simplify email marketing with automation and flexibity with Vidia System, We handle large numbers of emails at a go without delay?
             </div>
             <hr className="hr" />
           </Grid>
@@ -157,7 +155,7 @@ function Footer() {
               </IconButton>
             </div>
             <div className="social__copyrights">
-              © 2020 Layan Jayasinghe. All Rights Reserved.
+              © 2024 Vidia System. All Rights Reserved.
             </div>
           </Grid>
         </Grid>

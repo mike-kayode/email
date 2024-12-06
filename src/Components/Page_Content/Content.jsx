@@ -23,7 +23,7 @@ function Content() {
         <Typography
           style={{ fontSize: "3rem", textAlign: "center", padding: "1rem 0" }}
         >
-          Do it all with DAS
+          Do it all with Vidia Email System
         </Typography>
         <Typography variant="textSecondry" className="content--typo">
           Bring your audience data, marketing channels, and insights together so
